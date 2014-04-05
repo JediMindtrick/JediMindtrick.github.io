@@ -14,3 +14,5 @@ tags: [jekyll,notes]
 [Markdown Basic Syntax](https://daringfireball.net/projects/markdown/syntax)
 
 [Github-flavored Markdown](https://help.github.com/articles/github-flavored-markdown)
+
+[Jekyll Structure for Project Showcase](http://www.benknowscode.com/2012/08/using-jekyll-to-create-site-on-github_2028.html)
