@@ -1,44 +1,30 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: About
+tagline:
 ---
 {% include JB/setup %}
+This Site
+=========
+The purpose of this site may change over time :=).  It is based off of a basic jekyll-bootstrap theme which I will modify over time.
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+This site is meant to be a central location for me to:
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+1. Show projects I have worked on
+2. Gather notes and information I find useful
+  * articles
+  * videos
+  * papers & books
+3. Occasionally publish my own materials
 
-## Update Author Attributes
+Me
+==
+<img class="avatar js-avatar" data-user="415436" height="230" src="https://avatars1.githubusercontent.com/u/415436?s=460" width="230">
 
-In `_config.yml` remember to specify your own data:
+I love to program, read and spend time with my wife and child.
 
-    title : My Blog =)
+I have been programming for a long time...I still remember programming the first computer my dad brought home, a Vic 20.
 
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+I am very proficient at javascript and C#.  I can also do some Clojure and some Scala.  I am good at application design and smaller system design (I just haven't had a chance at what I would consider a large system).  I love writing web apps.  I used to love the middle-tier, but have moved on from that.  I am still good in the middle tier.  I have a bevy of areas of interest in programming, which I will add later if I get around to it.  
 
-The theme should reference these variables whenever needed.
-
-## Sample Posts
-
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
+I am not really good at the extremely visual part of programming web apps, which means I work best with a designer who is good with css and html.  Naturally, I'm somewhat proficient in these as well, but it's the last pixel-perfect-mile where I need a teammate to help me along.
