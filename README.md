@@ -1,5 +1,7 @@
 # Jekyll-Bootstrap
 
+[JediMindtrick's Github Pages](http://jedimindtrick.github.io/)
+
 The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
 
 ## Usage
